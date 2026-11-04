@@ -7,5 +7,5 @@
 const greeting = () => {
     console.log("Hello World");
 };
-greeting();
 export {};
+// greeting()
