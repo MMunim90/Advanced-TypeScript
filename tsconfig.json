@@ -8,5 +8,6 @@
     "types": [],
     "strict": true,
     "skipLibCheck": true,
+    "moduleDetection": "force",
   }
 }
