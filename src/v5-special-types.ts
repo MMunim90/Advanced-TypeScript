@@ -70,7 +70,7 @@ const getError = (msg: string): never => {
     throw new Error(msg);
 }
 
-const k: string = getError("This is an error");
-const l: number = getError("This is an error");
-const m: undefined = getError("This is an error");
-const n: null = getError("This is an error");
+// const k: string = getError("This is an error");
+// const l: number = getError("This is an error");
+// const m: undefined = getError("This is an error");
+// const n: null = getError("This is an error");
